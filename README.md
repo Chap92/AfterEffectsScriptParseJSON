@@ -1,4 +1,4 @@
-# AfterEffects JSON Parsing Script
+# After Effects JSON Parsing Script
 This After Effects script has been written in ExtendScript. It pulls information from a JSON file and creates an animation in After Effects.
 
 * The JSON file should be in the same folder as the script.
